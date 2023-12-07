@@ -1,0 +1,21 @@
+.textspace{color: #212121;
+font-family: Roboto, serif; 
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height:36px; /* 200% */
+letter-spacing: 1.08px;}
+p{color:red;
+font-family: Roboto, sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height:36px; /* 200% */
+letter-spacing: 1.08px;}
+.icecream{color:blue;
+font-family: Roboto,monospace;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height:36px; /* 200% */
+letter-spacing: 1.08px;}
